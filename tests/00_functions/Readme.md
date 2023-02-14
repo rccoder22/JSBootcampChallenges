@@ -2,7 +2,7 @@ max:  Write a function max that accepts three number arguments. max should retur
 
 addUnknown:  write a function named addUnknown that takes up to 5 arguments and adds them together
 
-evenOrOdd: Write a function that accepts a number as an argument. return the string 'even' if it is an even nummber and 'odd' if it is an odd number
+evenOrOdd: Write a function that accepts a number as an argument. return the string 'even' if it is an even number and 'odd' if it is an odd number
 
 operator:
 Write a function named operator that accepts three number arguments. operator should:
