@@ -57,7 +57,7 @@ describe('calc', () => {
     expect(calc.add(3)).to.equal(3);
   });
 
-  it('subrtract is a method in calc', () => {
+  it('subtract is a method in calc', () => {
     expect(calc.hasOwnProperty('subtract')).to.equal(true);
     expect(typeof calc.subtract).to.equal('function');
   });
